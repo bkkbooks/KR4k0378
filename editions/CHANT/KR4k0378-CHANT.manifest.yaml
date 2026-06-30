@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR4k0378/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR4k0378/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 吳篤趙書一卷
+  identifiers:
+    krp: KR4k0378
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0378.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR4k0378_001-CHANT.yaml, hash: 'sha256:7ba14e8b0d893d93857eae84350b60613faf3aa512f41e6bd935f85a56011a49'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4k0378_001-CHANT.markers.yaml, hash: 'sha256:749c902b66ec640ab38b0dbac1ea2eee5525c72d7165cb4769ce57e3f10e4762'}
+table_of_contents:
+- ref: {seq: 1, marker_id: KR4k0378_CHANT_001-1a.1-h, span: [body, 0, 27]}
+  label: 吳篤趙書
+  type: section
+  level: 1
+hash: sha256:607a3869e5a7d0ccc55d893c159100bae57421b6da2b9efe2cd55d114491da3b
