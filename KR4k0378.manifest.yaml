@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0378/v1
 canonical_location: https://kanripo.org/bkk/KR4k0378/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 吳篤趙書一卷
   identifiers:
@@ -36,4 +36,4 @@ table_of_contents:
   label: 吳篤趙書
   type: section
   level: 1
-hash: sha256:3d03312cd6c348f5b1d939aea4bcaceb6106cff8c5da0f4e22955204b6885462
+hash: sha256:54ae84ba4a7e4059d1fe13117ff87c063f192e02f9b342745db95bfc1f287345
